@@ -126,5 +126,6 @@ public class MainActivity extends AppCompatActivity {
 
         goButton.setVisibility(View.VISIBLE);
       //  gameLayout.setVisibility(View.INVISIBLE);
+        /////
     }
 }
